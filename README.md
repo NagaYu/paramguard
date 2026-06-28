@@ -283,7 +283,7 @@ if (result.summary.critical > 0) {
 ## Development
 
 ```bash
-git clone https://github.com/paramguard/paramguard.git
+git clone https://github.com/NagaYu/paramguard.git
 cd paramguard
 npm install
 npm run build       # bundle with tsup → dist/

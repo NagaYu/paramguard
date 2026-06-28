@@ -18,13 +18,13 @@
   ],
   "license": "MIT",
   "author": "ParamGuard Contributors",
-  "homepage": "https://github.com/your-username/paramguard#readme",
+  "homepage": "https://github.com/NagaYu/paramguard#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/paramguard.git"
+    "url": "git+https://github.com/NagaYu/paramguard.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/paramguard/issues"
+    "url": "https://github.com/NagaYu/paramguard/issues"
   },
   "type": "module",
   "engines": {
