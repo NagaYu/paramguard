@@ -31,7 +31,7 @@
     "node": ">=18.0.0"
   },
   "bin": {
-    "paramguard": "./dist/index.js"
+    "paramguard": "dist/index.js"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
